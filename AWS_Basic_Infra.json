@@ -22,10 +22,10 @@
 					"default": "Enter the VPC name"
 				},
 				"Subnet1Name": {
-					"default": "Enter the subnet1 name"
+					"default": "Enter the Subnet1 name"
 				},
 				"Subnet2Name": {
-					"default": "Enter the subnet2 name"
+					"default": "Enter the Subnet2 name"
 				},
 				"Subnet3Name": {
 					"default": "Enter the subnet3 name"
