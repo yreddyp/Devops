@@ -22,13 +22,13 @@
 					"default": "Enter the VPC name"
 				},
 				"Subnet1Name": {
-					"default": "Enter the Subnet1 name for VPC"
+					"default": "Enter the Subnet1 name for VPC 1234"
 				},
 				"Subnet2Name": {
-					"default": "Enter the Subnet2 name"
+					"default": "Enter the Subnet2 name 1234"
 				},
 				"Subnet3Name": {
-					"default": "Enter the subnet3 name"
+					"default": "Enter the subnet3 name 1234"
 				},				
 				"SSHLocation": {
 					"default": "Subnet allowed to ssh on TCP to public subnet"
