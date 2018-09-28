@@ -1,0 +1,11 @@
+artifacts:
+files:
+- ROOT.war
+discard-paths: true
+phases:
+install:
+commands:
+- "apt-get install git -y"
+- "chmod 700 build.sh"
+- "sh build.sh"
+version: 0.2
